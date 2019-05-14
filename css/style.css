@@ -145,6 +145,10 @@ h6 {
   color: #fff;
 }
 
+.l-heading {
+  font-size: 3rem;
+}
+
 .p-1 {
   padding: 1.5rem;
 }
@@ -272,6 +276,18 @@ h6 {
 
 #showcase .showcase-content p {
   margin-bottom: 1rem;
+}
+
+#article .meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #eee;
+  padding: 0.5rem;
+}
+
+#article .meta .category {
+  margin-top: 0.4rem;
 }
 
 /* Home Articles */
