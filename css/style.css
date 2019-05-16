@@ -81,6 +81,7 @@ h6 {
 }
 
 .btn {
+  -webkit-appearance: none;
   display: inline-block;
   border: none;
   background: var(--dark-color);
